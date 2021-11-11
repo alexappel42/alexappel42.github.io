@@ -13,7 +13,7 @@ header, footer {
 /*  min-width: 500px; */
 }
 header {
-  font-family: Work Sans;
+  font-family: 'Montserrat', serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -32,7 +32,7 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  font-family: 'Montserrat', serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -40,7 +40,7 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Montserrat', serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -65,7 +65,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Montserrat';
 }
 
 .buttonBox {
