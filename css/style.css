@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #d00000;
+  background-color: #6a040f;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -91,7 +91,7 @@ img {
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
-	background-color:#f24437;
+	background-color:#6a040f;
 }
 .myButton:active {
 	position:relative;
