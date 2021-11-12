@@ -78,14 +78,14 @@ img {
 	box-shadow: 3px 4px 0px 0px #ee9b00;
 	background:linear-gradient(to bottom, #ee9b00 5%, #ee9b00 100%);
 	background-color:#ee9b00;
-	border-radius:18px;
+	border-radius:10px;
 	border:1px solid #ee9b00;
 	display:inline-block;
 	cursor:pointer;
 	color:#f8edeb;
 	font-family:Arial;
 	font-size:17px;
-	padding:7px 7px;
+	padding:7px 25px;
 	text-decoration:none;
 	/*text-shadow:0px 1px 0px #ee9b00;*/
 }
