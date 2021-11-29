@@ -75,7 +75,7 @@ img {
 }
 
 .myButton {
-	box-shadow: 3px 4px 0px 0px #ee9b00;
+	/*box-shadow: 3px 4px 0px 0px #ee9b00;*/
 	background:linear-gradient(to bottom, #ee9b00 5%, #ee9b00 100%);
 	background-color:#ee9b00;
 	border-radius:18px;
