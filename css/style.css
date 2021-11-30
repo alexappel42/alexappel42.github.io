@@ -93,6 +93,7 @@ img {
     border:1px solid #ee9b00;
     cursor:pointer;
     overflow: hidden;
+    padding:7px 25px;
 
 }
 .myButton:hover {
