@@ -90,7 +90,7 @@ img {
 	text-shadow:0px 1px 0px #ee9b00;*/
   background-color: Transparent;
     background-repeat:no-repeat;
-    border: none;
+    border:1px solid #ee9b00;
     cursor:pointer;
     overflow: hidden;
 
