@@ -113,7 +113,7 @@ img {
 
 
 .project {
-  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 }
 
@@ -145,7 +145,7 @@ footer div {
     font-size: 50px;
     display: flex;
     align-content: center;
-    padding: 30px 30px;
+    padding: 10px 10px;
     color: white;
 }
 @media all and (max-width:700px) {
