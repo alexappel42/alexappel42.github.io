@@ -104,8 +104,8 @@ img {
 
 }
 .myButton:hover {
-	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
-	/*background-color: #fcbf49;*/
+  background-image:none !important;
+background-color:#dc2f02 !important;
 }
 .myButton:active {
 	position:relative;
