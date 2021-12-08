@@ -75,7 +75,7 @@ img {
 }
 
 .myButton {
-	box-shadow: 3px 4px 0px 0px #ee9b00;
+	/*box-shadow: 3px 4px 0px 0px #ee9b00;
 	background:linear-gradient(to bottom, #ee9b00 5%, #ee9b00 100%);
 	background-color: Transparent;
 	border-radius:18px;
@@ -87,8 +87,8 @@ img {
 	font-size:17px;
 	padding:7px 25px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #ee9b00;
-  /*background: transparent;
+	text-shadow:0px 1px 0px #ee9b00;*/
+  background: transparent;
     height:  38px;
     line-height:  40px;
     border:  2px solid orange;
@@ -98,7 +98,7 @@ img {
     width:  120px;
     padding:  0px!important;
     font-size:  14px;
-    color:  #ee9b00;*/
+    color:  #ee9b00;
 }
 
 }
