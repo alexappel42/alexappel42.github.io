@@ -105,7 +105,7 @@ img {
 }
 .myButton:hover {
   background-image:none !important;
-background-color:#dc2f02 !important;
+background-color: black !important;
 }
 .myButton:active {
 	position:relative;
