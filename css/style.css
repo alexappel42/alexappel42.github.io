@@ -100,20 +100,14 @@ img {
     padding:  0px!important;
     font-size:  14px;
     color:  #ee9b00;*/
-    display: -moz-inline-stack;
-  display: inline-block;
-  width: 391px;
-  height: 62px;
-  background: url("img/btncolor.png") no-repeat;
-  line-height: 62px;
-  vertical-align: text-middle;
-  text-align: center;
-  color: #ebe6eb;
-  font-family: Montserrat;
-  font-size: 39px;
-  font-weight: normal;
-  font-style: normal;
-  text-shadow: #222222 1px 1px 0;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
 }
