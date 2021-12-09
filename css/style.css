@@ -100,7 +100,8 @@ img {
     padding:  0px!important;
     font-size:  14px;
     color:  #ee9b00;*/
-    background-color: #ffba08;
+    background-color: linear-gradient(to bottom, #f48c06 5%, #ffba08 100%);
+    /*background-color: #ffba08;*/
     border: none;
     border-radius: 8px;
     color: white;
