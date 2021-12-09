@@ -102,6 +102,7 @@ img {
     color:  #ee9b00;*/
     background-color: #4CAF50; /* Green */
     border: none;
+    border-radius: 8px;
     color: white;
     padding: 15px 32px;
     text-align: center;
